@@ -1,0 +1,52 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellow;
+}
+h1{
+    font-size:75px;
+}
+li{
+    font-size: 40px;
+}
+
+.ingredients,li{
+    font-size: 20px;
+}
+.ingredients{
+    background-color: aqua;
+}
+.instructions{
+    background-color: lightcoral;
+}
+.return{
+    font-size: 25px;
+    border-style:solid;
+    border-color: red;
+    font-weight:bold;
+    background-color: red;
+
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.recipelist li{
+    list-style-type: none;
+    font-size:60px;
+}
+ul{
+    list-style-type:square;
+}
+.image{
+    width: 300px;
+    height: auto;
+    border-style: dashed;
+    border-width: 5px;
+    border-color:blue;
+    border-bottom-width: 10px;
+}
+#noodles{
+    color:red;
+    font-size:10px;
+    font-family: 'Courier New', Courier, monospace;
+}
