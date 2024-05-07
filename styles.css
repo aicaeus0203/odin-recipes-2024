@@ -31,9 +31,19 @@ a{
     text-decoration: none;
     color:black;
 }
+.recipelist{
+    margin-top: 0;
+    text-align: center;
+    background-color: aqua;
+}
 .recipelist li{
     list-style-type: none;
     font-size:60px;
+    display: inline-flex;
+    text-align: center;
+    margin-left: 32px;
+    padding: 32px;
+    background-color: coral;
 }
 ul{
     list-style-type:square;
@@ -50,4 +60,10 @@ ul{
     color:red;
     font-size:10px;
     font-family: 'Courier New', Courier, monospace;
+}
+#maintitle{
+    background-color: blueviolet;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
 }
